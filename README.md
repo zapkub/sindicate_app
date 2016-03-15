@@ -1,2 +1,0 @@
-# sindicate
-web application implement
